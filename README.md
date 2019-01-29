@@ -1,2 +1,2 @@
-# chromecasta-server
+# chromecast-server
 Simple chromecast server
