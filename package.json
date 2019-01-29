@@ -4,7 +4,8 @@
   "description": "Simple chromecast server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "DEBUG=* node index.js"
   },
   "keywords": [
     "chromecast",
@@ -14,6 +15,7 @@
   "author": "Walker at praiseweb.com.br",
   "license": "MIT",
   "dependencies": {
-    "castv2": "^0.1.9"
+    "castv2": "^0.1.9",
+    "mdns": "^2.4.0"
   }
 }
