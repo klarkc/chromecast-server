@@ -12,5 +12,8 @@
     "node"
   ],
   "author": "Walker at praiseweb.com.br",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "castv2": "^0.1.9"
+  }
 }
