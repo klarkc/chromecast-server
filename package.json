@@ -1,0 +1,16 @@
+{
+  "name": "chromecast-server",
+  "version": "1.0.0",
+  "description": "Simple chromecast server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chromecast",
+    "linux",
+    "node"
+  ],
+  "author": "Walker at praiseweb.com.br",
+  "license": "MIT"
+}
